@@ -31,4 +31,4 @@ def test_fill_required_fields_and_submit(driver):
     
     
 # ---------------------------- NOTES --------------------------
-# This is simple test suite to verify positive scenario - valid data entered in obligatory fields, submitted, webpage redirected
+# This is simple test script to verify positive scenario - valid data entered in obligatory fields, submitted, webpage redirected
