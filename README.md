@@ -1,6 +1,7 @@
 # contact_form_automation
 Automated UI tests for the Notch contact form
 Website: [https://wearenotch.com/contact/](https://wearenotch.com/contact/)
+📘 For more on the design strategy and test methodology, see [TEST_DESIGN.md](./TEST_DESIGN.md)
 
 ---
 
