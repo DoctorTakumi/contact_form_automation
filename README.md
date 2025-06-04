@@ -22,16 +22,16 @@ pip install -r requirements.txt
 
 ## `test_contact_form_negative.py`
 - Tests invalid contact form scenarios:
- - Missing First Name
- - Missing Last Name
- - Missing Email
- - Invalid Email Format
- - Unchecked Privacy Checkbox
+  - Missing First Name  
+  - Missing Last Name  
+  - Missing Email  
+  - Invalid Email Format  
+  - Unchecked Privacy Checkbox
 
 ## `test_fail_scenario.py`
-- Tests fail scenario
- - Missing First Name
- - Asserts thank-you URL which we know it will fail
+- Tests fail scenario:
+  - Missing First Name  
+  - Asserts thank-you URL which we know it will fail
 
 ---
 
