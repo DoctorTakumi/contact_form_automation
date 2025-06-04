@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ---
 
 # Guidelines
-## position yourself properly in the root folder
+## position yourself properly in the root folder (I used CMD for this task)
 - cd Desktop\contact_form_automation  (this is my example)
 
 ## run wanted file from the root folder
