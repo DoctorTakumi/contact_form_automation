@@ -6,9 +6,9 @@ Website: [https://wearenotch.com/contact/](https://wearenotch.com/contact/)
 
 # Setup and Prerequisites
 
-Clone this repository  
-Install Python 3.8+ and pip  
-Install project dependencies:
+- Clone this repository  
+- Install Python 3.8+ and pip  
+- Install project dependencies:
 
 ```bash
 pip install -r requirements.txt
