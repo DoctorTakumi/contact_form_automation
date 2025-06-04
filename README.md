@@ -53,7 +53,9 @@ pip install -r requirements.txt
 - pytest tests/test_fail_scenario.py -v --html=reports/report.html
 - pytest tests/ -v --html=reports/report.html
 
-## in conftest.py file choose headless option if wanted
-## in utils/config.py change URL if needed
-## in utils/helpers.py change email function to generate either new domain or local part
+## Additional notes:
+- in conftest.py file choose headless option if wanted
+- in utils/config.py change URL if needed
+- in utils/helpers.py change email function to generate either new domain or local part
+
 
