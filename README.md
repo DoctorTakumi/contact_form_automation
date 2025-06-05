@@ -2,11 +2,13 @@
 - Automated UI tests for the Notch contact form
 - Website: [https://wearenotch.com/contact/](https://wearenotch.com/contact/)
 - 📘 For more on the design strategy and test methodology, see [TEST_DESIGN.md](./TEST_DESIGN.md)
+- 📋 For suggested enhancements and identified UX issues see [UI_IMPROVEMENTS.md](./UI_IMPROVEMENTS.md) 
 
 ---
 
 # Setup and Prerequisites
 
+- Download and install Google Chrome, as the tests are currently written for it. ChromeDriver is included in this repository.
 - Clone this repository  
 - Install Python 3.8+ and pip  
 - Install project dependencies:
